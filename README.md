@@ -9,10 +9,18 @@ iii. Support Vector Machines Classification
 iv.	Naïve Bayes Classification
 
 ## Result of Clutering:
-
+### Gaussian Mean Clustering
+![GM](https://user-images.githubusercontent.com/31371838/103689556-78ada500-4f61-11eb-9c28-bdec72bd2949.png)
+### Mean Shift Clustering
+![MS](https://user-images.githubusercontent.com/31371838/103689558-79463b80-4f61-11eb-886f-40e170942003.png)
 
 ## Result of Classification:
-
+### SVM Confusion Matrix and F-Score
+![SVM_CM](https://user-images.githubusercontent.com/31371838/103689725-b01c5180-4f61-11eb-8671-71a0fff192e2.png)
+![SVM_FScore](https://user-images.githubusercontent.com/31371838/103689726-b01c5180-4f61-11eb-9f38-0bbd399a1dcf.png)
+### Naive Bayes Confusion Matrix and F-Score
+![NB_CM](https://user-images.githubusercontent.com/31371838/103689770-bca0aa00-4f61-11eb-97a9-9465910b1b3e.png)
+![NB_FScore](https://user-images.githubusercontent.com/31371838/103689768-bc081380-4f61-11eb-87d8-53ed36d7cb01.png)
 
 ## Conclusion:
 I would like to point out a few things for clustering:
